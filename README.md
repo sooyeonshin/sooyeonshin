@@ -1,2 +1,2 @@
-sooyeon shin <ssy6061@naver.com>
+sooyeon shin 
 >personal projects about computer vision & deep learning
